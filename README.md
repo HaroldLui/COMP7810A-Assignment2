@@ -1,4 +1,4 @@
-# Assignment Two — Stablecoin Lab
+# Assignment Two: Stablecoin Lab
 
 ## 1. Student information
 
@@ -6,12 +6,12 @@
 |---|---|
 | Name | LUI Chi Shing |
 | Student ID | 3036326931 |
-| Course | COMP7810A — Stablecoins, Tokenization, and RWA |
-| Assignment | Assignment Two — Stablecoin Lab |
+| Course | COMP7810A Stablecoins, Tokenization, and RWA |
+| Assignment | Assignment Two: Stablecoin Lab |
 
 ## 2. Repository and test results
 
-**My repository:** To be added before submission.
+**My repository:** [Link](https://github.com/HaroldLui/COMP7810A-Assignment2.git).
 
 The original lab is from [stablecoin-lab-2026](https://github.com/hgwoops/stablecoin-lab-2026). This is the starter repository, not my personal submission link.
 
